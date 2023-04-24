@@ -5,7 +5,7 @@
   
   .cabecalho {
     background-color: #131312;
-    color: rgb(211, 133, 16);
+    color:#fc84fc;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,7 +13,7 @@
   }
   
   .cabecalho-imagem{
-    width: 30%;
+    width: 12%;
   }
   
   .cabecalho-lista-item{
@@ -23,16 +23,16 @@
   }
   
   .escola-imagem{
-    width: 15%;
+    width: 40%;
   }
   
   .escola{
-    background-image: linear-gradient(#e9cd2d,#972d0c);
+    background-image: linear-gradient(#fdfdfd,#fc84fc);
     color:rgb(8, 7, 7);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 190px 0;
   }
   
   .escola-div-conteudo{
